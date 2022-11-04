@@ -1,0 +1,41 @@
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(08.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div>h2 {
+    color: white !important;
+    padding-left: 31% !important;
+    padding-top: 20% !important;
+    font-size: 5rem !important;
+}
+
+div>h3 {
+    color: black !important;
+    padding-left: 9% !important;
+    padding-top: 8% !important;
+    font-size: 2.5rem !important;
+}
+
+div>h5 {
+    color: black !important;
+    padding-left: 9% !important;
+    padding-top: 20% !important;
+    font-size: 2.5rem !important;
+}
+
+p {
+    color: #454545 !important;
+    padding-top: 6% !important;
+}
+
+img {
+    width: 82% !important;
+    margin-left: 3% !important;
+    margin-top: 10% !important;
+}
